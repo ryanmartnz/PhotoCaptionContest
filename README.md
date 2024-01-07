@@ -1,4 +1,4 @@
-# caption-contest
+# Photo Caption Contest
 
 Simple Node/Express API to retrieve and caption photos. Users can view a list of photos, then register to leave captions on photos.
 
